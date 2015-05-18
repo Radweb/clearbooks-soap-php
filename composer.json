@@ -1,0 +1,14 @@
+{
+    "name": "radweb/clearbooks-soap-php",
+    "authors": [
+        {
+            "name": "Robb Lewis",
+            "email": "robb@radweb.co.uk"
+        }
+    ],
+    "autoload": {
+    	"psr-0": {
+    		"": "src/"
+    	}
+    }
+}
